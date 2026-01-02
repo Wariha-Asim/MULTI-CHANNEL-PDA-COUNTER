@@ -38,6 +38,8 @@ This project behaves like a **Pushdown Automaton (PDA)**:
 - Each channel acts like its **own PDA**
 
 ---
+## 🏗 Project Structure
+
 main.py → GUI + main logic
 channels_state.json → Saves channel data (counts, stacks, states, last input)
 
@@ -63,5 +65,5 @@ Feel free to fork, improve, and learn!
 
 Open-source — use freely for learning 😊
 
-## 🏗 Project Structure
+
 
