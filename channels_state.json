@@ -1,0 +1,1 @@
+{"A": {"count": 3, "stack": [1, 1, 1], "state": "q1", "last_input": "1"}, "B": {"count": 3, "stack": [1, 1, 1], "state": "q1", "last_input": "1"}, "C": {"count": 8, "stack": [1, 1, 1, 1, 1, 1, 1, 1], "state": "q1", "last_input": "1"}}
